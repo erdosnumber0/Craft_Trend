@@ -1,5 +1,5 @@
 # Project_3 Craft_Trend
-  ## 온라인 공예 클래스 트랜드 분석
+  ## 온라인 공예 클래스 트랜드 분석(https://infogram.com/--1hdw2jpxjp00j2l?live)
 ----------------
 ## 1. About : 기록을 시작하며
 

@@ -1,9 +1,9 @@
 # Project_3 Craft_Trend
   ## 온라인 공예 클래스 트랜드 분석
   
-[![WEB](https://drive.google.com/file/d/1tbZ01_ZUNE-9h_JJVTasTKAEDUsZ4UuU/view?usp=sharing)](https://infogram.com/--1hdw2jpxjp00j2l?live)
+[(https://drive.google.com/file/d/1tbZ01_ZUNE-9h_JJVTasTKAEDUsZ4UuU/view?usp=sharing)](https://infogram.com/--1hdw2jpxjp00j2l?live)
  
-[![PPT](https://drive.google.com/file/d/1u1Zw3flbly82b2aWL1Dz9jZSsD_BJg_P/view?usp=sharing)]()
+[(https://drive.google.com/file/d/1u1Zw3flbly82b2aWL1Dz9jZSsD_BJg_P/view?usp=sharing)]()
 
 ----------------
 ## 1. About : 기록을 시작하며

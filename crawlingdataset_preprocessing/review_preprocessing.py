@@ -18,6 +18,7 @@ class string_preprocessing:
         title_data = title_data.strip()
         return title_data
 
+
     def stemming(string_data):
         """
         :param: string_data: 문자열 데이터
@@ -50,12 +51,25 @@ class string_preprocessing:
         string_data = re.sub('[^\w ]', '', string_data)
         return string_data
 
-    def return_year(date_data):
+
+    def return_year_c(date_data):
         split_date = date_data.split('.')
         return int(split_date[0])
 
-    def return_month(date_data):
+    def return_month_c(date_data):
         split_date = date_data.split('.')
+        return int(split_date[1])
+
+    def return_year_i(date_data):
+        import re
+        date_data = re.sub('([ㄱ-ㅎ|ㅏ-ㅣ|가-힣])', '', date_data)
+        split_date = date_data.split()
+        return int(split_date[0])
+
+    def return_month_i(date_data):
+        import re
+        date_data = re.sub('([ㄱ-ㅎ|ㅏ-ㅣ|가-힣])', '', date_data)
+        split_date = date_data.split()
         return int(split_date[1])
 
 

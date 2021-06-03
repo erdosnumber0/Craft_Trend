@@ -3,7 +3,7 @@
   
 [![웹페이지로 바로가기](https://drive.google.com/file/d/1tbZ01_ZUNE-9h_JJVTasTKAEDUsZ4UuU/view?usp=sharing)](https://infogram.com/--1hdw2jpxjp00j2l?live)
  
-[![PPT](https://drive.google.com/file/d/1u1Zw3flbly82b2aWL1Dz9jZSsD_BJg_P/view?usp=sharing)]()
+[![PPT](https://drive.google.com/file/d/1u1Zw3flbly82b2aWL1Dz9jZSsD_BJg_P/view?usp=sharing)](https://www.slideshare.net/BoramLee69/craft-online-class-trend-analysis)
 
 ----------------
 ## 1. About : 기록을 시작하며

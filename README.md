@@ -1,6 +1,9 @@
 # Project_3 Craft_Trend
   ## 온라인 공예 클래스 트랜드 분석
 
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+
+
 ![KakaoTalk_20210604_171524692_01](https://user-images.githubusercontent.com/76681523/120769873-8428ea80-c558-11eb-8adc-ae0511692654.png)(https://www.slideshare.net/BoramLee69/craft-online-class-trend-analysis)
 
 ![KakaoTalk_20210604_171524692](https://user-images.githubusercontent.com/76681523/120769948-96a32400-c558-11eb-8601-61614f6de3e7.png)

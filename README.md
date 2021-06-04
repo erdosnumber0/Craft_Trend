@@ -4,11 +4,16 @@
 [![웹페이지로 바로가기](https://drive.google.com/file/d/1tbZ01_ZUNE-9h_JJVTasTKAEDUsZ4UuU/view?usp=sharing)](https://infogram.com/--1hdw2jpxjp00j2l?live)
  
 [![PPT](https://drive.google.com/file/d/1u1Zw3flbly82b2aWL1Dz9jZSsD_BJg_P/view?usp=sharing)](https://www.slideshare.net/BoramLee69/craft-online-class-trend-analysis)
+-----------------
 
 ----------------
 ## 1. About: 기록을 시작하며,
 
 - 다른 컨설팅 회사가 받은 의뢰를 학원에서 재수주받아, K-training 과정의 끝자락에 진행한 세번째 프로젝트에 해당하는 기록이다.
+
+- 팀원: 김교건, 노규만, 이보람, 전정재, 정지윤
+----------------------------
+
 ---------------------------
 ## 2. From, where? 어디서 왔을까
 

@@ -3,7 +3,7 @@
 ----------------------
 ![KakaoTalk_20210604_171524692_01](https://github.com/erdosnumber0/Craft_Trend/blob/main/0.%20dataset/ppt%20main.png)
 
-- (https://www.slideshare.net/BoramLee69/craft-online-class-trend-analysis)
+- (https://www.slideshare.net/BoramLee69/0608-online-craft-class-trend-analysis)
 
 ![KakaoTalk_20210604_171524692](https://user-images.githubusercontent.com/76681523/120769948-96a32400-c558-11eb-8601-61614f6de3e7.png)
 

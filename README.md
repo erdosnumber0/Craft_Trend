@@ -1,7 +1,7 @@
 # Project_3 Craft_Trend
   ## 온라인 공예 클래스 트렌드 분석
 ----------------------
-![KakaoTalk_20210604_171524692_01](https://user-images.githubusercontent.com/76681523/120769873-8428ea80-c558-11eb-8adc-ae0511692654.png)
+![KakaoTalk_20210604_171524692_01](https://github.com/erdosnumber0/Craft_Trend/blob/main/0.%20dataset/ppt%20main.png)
 
 - (https://www.slideshare.net/BoramLee69/craft-online-class-trend-analysis)
 

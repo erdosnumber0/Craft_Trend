@@ -2,6 +2,7 @@
   ## 온라인 공예 클래스 트렌드 분석 
 ----------------------
 ![KakaoTalk_20210604_171524692_01](https://github.com/erdosnumber0/Craft_Trend/blob/main/0.%20dataset/ppt%20main.png)
+(이미지 출처:  https://www.itdaa.net/open_mentorings/995  , ⒸDean Drobot )
 
 - (https://www.slideshare.net/BoramLee69/0608-online-craft-class-trend-analysis)
 

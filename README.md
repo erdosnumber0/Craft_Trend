@@ -9,6 +9,14 @@
 ![KakaoTalk_20210604_171524692](https://user-images.githubusercontent.com/76681523/120769948-96a32400-c558-11eb-8601-61614f6de3e7.png)
 
 - (https://infogram.com/--1hdw2jpxjp00j2l?live)
+
+- Stacks
+```
+- Language: Python
+- IDE : Jupyter Notebook, VSCode, Pycharm, Colab
+- Library: Pandas, Numpy, Matplotlib, Plotly, Seaborn, Konlpy, Soynlp, Selenium, BS4, Counter, WordCloud, NetworkX, Apriori
+- Framework: infogram
+```
 -----------------
 
 ## 1. About: 기록을 시작하며,

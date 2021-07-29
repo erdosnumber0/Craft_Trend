@@ -10,7 +10,7 @@
 
 - (https://infogram.com/--1hdw2jpxjp00j2l?live)
 
-- Stacks
+- Stack
 ```
 - Language: Python
 - IDE : Jupyter Notebook, VSCode, Pycharm, Colab

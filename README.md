@@ -1,20 +1,24 @@
 # Project_3 Craft_Trend
   ## 온라인 공예 클래스 트렌드 분석 
-----------------------
-![KakaoTalk_20210604_171524692_01](https://github.com/erdosnumber0/Craft_Trend/blob/main/0.%20dataset/ppt%20main.png)
-(이미지 출처:  https://www.itdaa.net/open_mentorings/995  , ⒸDean Drobot )
 
-- (https://www.slideshare.net/BoramLee69/0608-online-craft-class-trend-analysis)
+|프로젝트 PPT|
+|:------:|
+|![KakaoTalk_20210604_171524692_01](https://github.com/erdosnumber0/Craft_Trend/blob/main/0.%20dataset/ppt%20main.png)이미지 출처:  https://www.itdaa.net/open_mentorings/995  , ⒸDean Drobot |
+|[👉 ppt 보기](https://www.slideshare.net/BoramLee69/0608-online-craft-class-trend-analysis)|
 
-![KakaoTalk_20210604_171524692](https://user-images.githubusercontent.com/76681523/120769948-96a32400-c558-11eb-8601-61614f6de3e7.png)
+|구현 페이지|
+|:------:|
+|![KakaoTalk_20210604_171524692](https://user-images.githubusercontent.com/76681523/120769948-96a32400-c558-11eb-8601-61614f6de3e7.png)|
+|[👉 구현 페이지 가기](https://infogram.com/--1hdw2jpxjp00j2l?live)|
 
-- (https://infogram.com/--1hdw2jpxjp00j2l?live)
+
 
 - Stack
 ```
 - Language: Python
 - IDE : Jupyter Notebook, VSCode, Pycharm, Colab
-- Library: Pandas, Numpy, Matplotlib, Plotly, Seaborn, Konlpy, Soynlp, Selenium, BS4, Counter, WordCloud, NetworkX, Apriori
+- Library: Pandas, Numpy, Matplotlib, Plotly, Seaborn, Konlpy, Soynlp, 
+Selenium, BS4, Counter, WordCloud, NetworkX, Apriori
 - Framework: infogram
 ```
 -----------------
